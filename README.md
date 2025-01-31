@@ -6,7 +6,7 @@ Hey everyone! I'm Karthik, a high school student who studies IBDP. I always felt
 Thanks!
 
 ## Website
-You can visit the website here: [ib-llm.vercel.app](https://ib-llm.vercel.app)
+You can visit the website here: [llm.karthik.lol](https://llm.karthik.lol)
 
 ## Features
 - **Customized Responses:** Tailored to IBDP subjects and requirements.
