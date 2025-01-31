@@ -1,7 +1,9 @@
 # LLM for IBDP
 
 ## Overview
-Hey everyone! I'm Karthik, a high school student who studies IBDP. I always felt that general LLMs like ChatGPT, Llama, etc., are too vague and ambigous for IB and is very frustrating if you have a question. That's why I made this LLM.
+Hey everyone! I'm Karthik, a high school student who studies IBDP. I always felt that general LLMs like ChatGPT, Llama, etc., are too vague and ambigous for IB and is very frustrating if you have a question. That's why I made this LLM. **Y'all I had to pay $13 to host this due to limited upload capacity on Vercel, please vote!** :P
+
+Thanks!
 
 ## Website
 You can visit the website here: [ib-llm.vercel.app](https://ib-llm.vercel.app)
