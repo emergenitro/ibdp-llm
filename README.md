@@ -3,6 +3,8 @@
 ## Overview
 Hey everyone! I'm Karthik, a high school student who studies IBDP. I always felt that general LLMs like ChatGPT, Llama, etc., are too vague and ambigous for IB and is very frustrating if you have a question. That's why I made this LLM. **Y'all I had to pay $13 to host this due to limited upload capacity on Vercel, please vote!** :P
 
+NOTE: I had to limit the number of tokens generated to 256 due to TERRIBLE computational resources that I'm working with.
+
 Thanks!
 
 ## Website
